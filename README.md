@@ -25,7 +25,15 @@ En la seva obra El software toma el mando (2013), Lev Manovich sosté que el sof
 
 ### Amb les ulleres de Manovich
 
-Des de la perspectiva de Manovich, DALL·E reflecteix clarament una **transcodificació cultural**, en què el llenguatge textual esdevé visual mitjançant procediments algorítmics. També és un cas de **variabilitat extrema**: una mateixa entrada textual pot donar lloc a infinites variants visuals, totes elles vàlides i generades en temps real. L’ús de la IA introdueix automatització i modularitat, ja que els elements visuals són tractats com unitats susceptibles de combinació i manipulació programàtica.
+Des de la perspectiva de Manovich, **DALL·E** és un cas paradigmàtic d’hibridació digital, on diversos principis dels nous mitjans es manifesten de manera evident. En primer lloc, destaca per la seva variabilitat, ja que una mateixa descripció textual pot generar un nombre virtualment infinit d’imatges, totes elles vàlides i úniques. Aquesta capacitat de generar resultats diversos i personalitzats a partir d’un input comú és una expressió clara de la naturalesa no-lineal i adaptable dels nous mitjans.
+
+La modularitat també hi és present, ja que les imatges generades es construeixen a partir de fragments o patrons visuals que el sistema reorganitza segons les instruccions textuals. Cada component visual es pot considerar un “mòdul” digital capaç de ser manipulat, combinat i reutilitzat, seguint la lògica de composició pròpia del software.
+
+Pel que fa a la automatització, **DALL·E** representa una nova etapa en la creació visual: l’usuari no ha de dominar eines gràfiques ni tècniques artístiques tradicionals, sinó simplement descriure amb paraules el que vol veure. El sistema fa la resta, executant un procés creatiu complex sense intervenció manual. Això transforma completament el rol de l’usuari, que passa de creador actiu a desencadenant semàntic d’imatges generades automàticament.
+
+Aquest procés condueix directament a la transcodificació cultural, ja que el llenguatge escrit esdevé visual a través de mecanismes algorítmics. La frontera entre paraula i imatge es dissol, i el text deixa de ser només un mitjà narratiu per convertir-se en una eina de producció visual.
+
+Finalment, l’impacte cultural de **DALL·E** és profund: fa accessible l’accés a la creació artística, desafia les nocions d’autoria i originalitat i obre nous horitzons per al disseny, la comunicació visual i la producció de continguts. És una eina que exemplifica com el software no només prèn el comandament, sinó que crea nous llenguatges visuals que transformen les formes d’expressió i participació cultural contemporànies.
 
 ### Recursos multimèdia
 
@@ -48,7 +56,15 @@ Des de la perspectiva de Manovich, DALL·E reflecteix clarament una **transcodif
 
 ### Amb les ulleres de Manovich
 
-Spotify AI DJ és una manifestació de la **variabilitat** i **l’automatització**, ja que l’experiència musical es genera a mida i canvia constantment. A més, la veu sintètica actua com una nova **interfície emocional**, connectant l’usuari amb el contingut mitjançant una narrativa digital. Així, es redefineixen els rols de l’oient, el locutor i el programador. Aquest cas reflecteix també la **modularitat** i la **transcodificació**, doncs incorpora elements de la ràdio, el podcast i l’streaming en un format únic.
+**Spotify AI DJ** representa una aplicació avançada dels principis que defineixen els nous mitjans segons Manovich. En primer lloc, destaca per la seva variabilitat, ja que ofereix una experiència musical personalitzada que evoluciona en temps real en funció dels hàbits d’escolta i preferències de cada usuari. Aquesta capacitat d’adaptació constant converteix la música en un flux dinàmic i canviant, més proper a una narrativa viva que a una playlist estàtica.
+
+La seva estructura es fonamenta també en la modularitat: els blocs de contingut (cançons, fragments de veu, comentaris del DJ) es combinen i reorganitzen de manera flexible segons el context. Aquesta modularitat programada permet generar seqüències d’àudio úniques, construïdes a mida com un mosaic narratiu automatitzat.
+
+Quant a la automatització, és un element clau del sistema. L’usuari no selecciona cançons manualment, sinó que delega aquesta funció a l’algoritme, que actua com un curador musical intel·ligent. La veu sintètica, generada per IA, simula l’estil d’un locutor humà i afegeix comentaris contextuals, anècdotes i recomanacions sense intervenció directa. Això il·lustra perfectament el principi d’automatització de processos creatius i comunicatius.
+
+La transcodificació cultural es manifesta en la fusió d’elements tradicionals, com la ràdio i el podcast, amb el llenguatge i la lògica del software. El DJ artificial pren el relleu del locutor humà, i la plataforma d’streaming es converteix en un escenari interactiu on el relat musical es construeix algorítmicament.
+
+Pel que fa a l’impacte cultural, Spotify AI DJ redefineix la relació de l’oient amb la música: ja no es tracta només de seleccionar cançons, sinó de viure una experiència guiada, íntima i narrativa. Aquesta nova interfície emocional transforma la manera com consumim i interpretem la música, i anticipa un futur on el contingut cultural es genera i modula automàticament a partir de dades personals i criteris algorítmics.
 
 ### Recursos multimèdia
 
